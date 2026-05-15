@@ -4,6 +4,8 @@ Marginalia is a firmware and package ecosystem for e-ink reading devices.
 
 The project starts with Xteink X3/X4 support and adds a package layer for firmware modules, apps, sleep-screen tools, themes, and other reader-native extensions.
 
+Browse the current package catalog at [marginalia-hub.vercel.app](https://marginalia-hub.vercel.app).
+
 Core repositories:
 
 - [`marginalia-firmware`](https://github.com/marginalia-os/marginalia-firmware): firmware fork and package runtime
