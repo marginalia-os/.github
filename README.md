@@ -2,6 +2,12 @@
 
 Shared organization profile, governance notes, and maintenance automation for Marginalia.
 
+## Contributing
+
+Default contributor guidance lives in `CONTRIBUTING.md`. It covers pull request
+review expectations, optional local CodeRabbit review, and where to find
+repository-specific checks.
+
 ## Branch Rules
 
 Default branches are protected directly on the current repositories.
