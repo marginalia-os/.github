@@ -2,7 +2,7 @@
 
 # Marginalia
 
-Marginalia is an e-ink firmware and extension ecosystem for reader devices.
+Marginalia is an e-ink firmware and package ecosystem for reader devices.
 
 The project starts with Xteink X3/X4 support and builds toward a small RT-Thread-style model: the base firmware stays
 focused, while themes, modules, tools, and reader-native apps ship as installable packages.
