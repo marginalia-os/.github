@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Guidance for agents working in `marginalia-org-github`.
+Guidance for agents working in `marginalia-os/.github`.
 
 ## Project Role
 
@@ -28,4 +28,3 @@ GH_TOKEN=... scripts/apply-default-branch-ruleset.sh
 - Prefer per-repo protections until organization rulesets are available on the current GitHub plan.
 - Protection changes should preserve review thread resolution and prevent force pushes/deletion on default branches.
 - Shared contribution guidance belongs here only when it applies to most Marginalia repos; repo-specific commands belong in that repo.
-
